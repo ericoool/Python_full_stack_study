@@ -1,0 +1,2 @@
+2018-10-29 11:31:19,606 - ERROR - 02.py[:39] - This is a error log.
+2018-10-29 11:31:19,606 - CRITICAL - 02.py[:40] - This is a critical log.

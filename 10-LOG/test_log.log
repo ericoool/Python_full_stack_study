@@ -1,0 +1,67 @@
+2018-10-29 10:16:49,529=====DEBUG+++++This is a debug log.
+2018-10-29 10:16:49,530=====INFO+++++This is a info log.
+2018-10-29 10:16:49,530=====WARNING+++++This is a warning log.
+2018-10-29 10:16:49,530=====ERROR+++++This is a error log.
+2018-10-29 10:16:49,530=====CRITICAL+++++This is a critical log.
+2018-10-29 10:17:12,823=====DEBUG+++++This is a debug log.
+2018-10-29 10:17:12,824=====INFO+++++This is a info log.
+2018-10-29 10:17:12,824=====WARNING+++++This is a warning log.
+2018-10-29 10:17:12,824=====ERROR+++++This is a error log.
+2018-10-29 10:17:12,824=====CRITICAL+++++This is a critical log.
+2018-10-29 10:17:14,138=====DEBUG+++++Importing BlpImagePlugin
+2018-10-29 10:17:14,193=====DEBUG+++++Importing BmpImagePlugin
+2018-10-29 10:17:14,270=====DEBUG+++++Importing BufrStubImagePlugin
+2018-10-29 10:17:14,279=====DEBUG+++++Importing CurImagePlugin
+2018-10-29 10:17:14,295=====DEBUG+++++Importing DcxImagePlugin
+2018-10-29 10:17:14,319=====DEBUG+++++Importing DdsImagePlugin
+2018-10-29 10:17:14,333=====DEBUG+++++Importing EpsImagePlugin
+2018-10-29 10:17:14,412=====DEBUG+++++Importing FitsStubImagePlugin
+2018-10-29 10:17:14,436=====DEBUG+++++Importing FliImagePlugin
+2018-10-29 10:17:14,446=====DEBUG+++++Importing FpxImagePlugin
+2018-10-29 10:17:14,455=====DEBUG+++++Image: failed to import FpxImagePlugin: No module named 'olefile'
+2018-10-29 10:17:14,455=====DEBUG+++++Importing FtexImagePlugin
+2018-10-29 10:17:14,470=====DEBUG+++++Importing GbrImagePlugin
+2018-10-29 10:17:14,484=====DEBUG+++++Importing GifImagePlugin
+2018-10-29 10:17:14,660=====DEBUG+++++Importing GribStubImagePlugin
+2018-10-29 10:17:14,675=====DEBUG+++++Importing Hdf5StubImagePlugin
+2018-10-29 10:17:14,692=====DEBUG+++++Importing IcnsImagePlugin
+2018-10-29 10:17:14,760=====DEBUG+++++Importing IcoImagePlugin
+2018-10-29 10:17:14,766=====DEBUG+++++Importing ImImagePlugin
+2018-10-29 10:17:14,774=====DEBUG+++++Importing ImtImagePlugin
+2018-10-29 10:17:14,794=====DEBUG+++++Importing IptcImagePlugin
+2018-10-29 10:17:14,799=====DEBUG+++++Importing JpegImagePlugin
+2018-10-29 10:17:14,861=====DEBUG+++++Importing Jpeg2KImagePlugin
+2018-10-29 10:17:14,862=====DEBUG+++++Importing McIdasImagePlugin
+2018-10-29 10:17:14,891=====DEBUG+++++Importing MicImagePlugin
+2018-10-29 10:17:14,988=====DEBUG+++++Image: failed to import MicImagePlugin: No module named 'olefile'
+2018-10-29 10:17:14,988=====DEBUG+++++Importing MpegImagePlugin
+2018-10-29 10:17:15,042=====DEBUG+++++Importing MpoImagePlugin
+2018-10-29 10:17:15,056=====DEBUG+++++Importing MspImagePlugin
+2018-10-29 10:17:15,073=====DEBUG+++++Importing PalmImagePlugin
+2018-10-29 10:17:15,079=====DEBUG+++++Importing PcdImagePlugin
+2018-10-29 10:17:15,091=====DEBUG+++++Importing PcxImagePlugin
+2018-10-29 10:17:15,091=====DEBUG+++++Importing PdfImagePlugin
+2018-10-29 10:17:15,140=====DEBUG+++++Importing PixarImagePlugin
+2018-10-29 10:17:15,163=====DEBUG+++++Importing PngImagePlugin
+2018-10-29 10:17:15,163=====DEBUG+++++Importing PpmImagePlugin
+2018-10-29 10:17:15,173=====DEBUG+++++Importing PsdImagePlugin
+2018-10-29 10:17:15,179=====DEBUG+++++Importing SgiImagePlugin
+2018-10-29 10:17:15,188=====DEBUG+++++Importing SpiderImagePlugin
+2018-10-29 10:17:15,194=====DEBUG+++++Importing SunImagePlugin
+2018-10-29 10:17:15,207=====DEBUG+++++Importing TgaImagePlugin
+2018-10-29 10:17:15,221=====DEBUG+++++Importing TiffImagePlugin
+2018-10-29 10:17:15,221=====DEBUG+++++Importing WebPImagePlugin
+2018-10-29 10:17:15,262=====DEBUG+++++Importing WmfImagePlugin
+2018-10-29 10:17:15,287=====DEBUG+++++Importing XbmImagePlugin
+2018-10-29 10:17:15,300=====DEBUG+++++Importing XpmImagePlugin
+2018-10-29 10:17:15,314=====DEBUG+++++Importing XVThumbImagePlugin
+2018-10-29 10:19:57,067=====DEBUG+++++This is a debug log.
+2018-10-29 10:19:57,068=====INFO+++++This is a info log.
+2018-10-29 10:19:57,068=====WARNING+++++This is a warning log.
+2018-10-29 10:19:57,068=====ERROR+++++This is a error log.
+2018-10-29 10:19:57,068=====CRITICAL+++++This is a critical log.
+2018-10-29 10:19:57,068=====DEBUG+++++This is a debug log.
+2018-10-29 10:19:57,068=====INFO+++++This is a info log.
+2018-10-29 10:19:57,068=====WARNING+++++This is a warning log.
+2018-10-29 10:19:57,068=====ERROR+++++This is a error log.
+2018-10-29 10:19:57,068=====CRITICAL+++++This is a critical log.
