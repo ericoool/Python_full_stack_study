@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<school>
+    <Teacher>
+        <name>LiuDD</name>
+        <age detail="Age for year 2018">28</age>
+        <Mobile>1358888888</Mobile>
+    </Teacher>
+    <Student>
+        <name Other="他是班长">ZhangSan</name>
+        <Age Detail="The yongest boy in class">14</Age>
+    </Student>
+    <Student>
+        <Name>LiSi</Name>
+        <Age>19</Age>
+        <Mobile>1508888888</Mobile>
+    </Student>
+</school>
